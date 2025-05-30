@@ -1,0 +1,42 @@
+body {
+  font: italic, 600, 16px, monospace;
+  width: 80%;
+  padding: 50px;
+  text-align: center;
+}
+
+#colorBox {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  background-color: white;
+  margin: 20px auto;
+}
+
+#colorCode {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+.btn {
+  display: flex;
+  flex-direction: column;
+}
+
+#generateColor {
+  font-size: 18px;
+  width: 180px;
+  margin: 10px auto;
+}
+
+#copyColor {
+  font-size: 18px;
+  width: 180px;
+  margin: 10px auto;
+}
+
+#saveColor {
+  font-size: 18px;
+  width: 180px;
+  margin: 10px auto;
+}
